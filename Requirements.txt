@@ -1,0 +1,6 @@
+flask
+twilio
+openai
+parsedatetime
+python-dotenv
+requests
